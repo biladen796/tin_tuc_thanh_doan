@@ -68,9 +68,7 @@ export function HomePage({
       </Helmet>
       <div>
         <CenteredSection>
-          <H2>
-            <FormattedMessage {...messages.startProjectHeader} />
-          </H2>
+          <H2>HHHHH</H2>
           <p>
             <FormattedMessage {...messages.startProjectMessage} />
           </p>
